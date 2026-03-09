@@ -1,4 +1,4 @@
-# Describe: Animal Tracking Data Analysis
+# Movebank-Data-Analysis: Animal Tracking Data Analysis
 
 ## 🚀 Project Overview
 `Describe` is a **Python-based data analysis and visualization project** focused on animal movement tracking. The project demonstrates **how to download, clean, and analyze datasets**, producing meaningful insights and visualizations using Python libraries.
@@ -15,10 +15,3 @@ This notebook is ideal for beginners and data enthusiasts interested in **data e
 - Step-by-step instructions in a **Jupyter Notebook**.
 
 ---
-
-## 💻 Installation / Setup
-
-### 1️⃣ Clone the repository (Optional if using Git)
-```bash
-git clone https://github.com/lucyshallyne/Describe.git
-cd Describe
